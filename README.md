@@ -11,3 +11,10 @@ https://www.programcreek.com/python/example/100025/selenium.webdriver.ChromeOpti
 
 
 class.__dict__ //melihat nilai variabel dalam class python
+__repr__
+__str__
+@property
+@namaproperty.setter
+@namaproperty.deleter
+
+select by expath https://www.guru99.com/xpath-selenium.html

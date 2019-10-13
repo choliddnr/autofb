@@ -1,20 +1,28 @@
 from selenium import webdriver
 import time
- 
-def chrome_opt():
-	chrome_options = webdriver.ChromeOptions()
-	chrome_options.add_argument("user-data-dir=ecosy")
-	return chrome_options
 
+class facebook:
+	def __init__(self, email, password, dir):
+		self.email = email
+		self.password = password
+		self.dir = dir
+		chrome_options = webdriver.ChromeOptions()
+		prefs = {"profile.default_content_setting_values.notifications" : 2}
+		chrome_options.add_experimental_option("prefs",prefs)
+		chrome_options.add_argument("user-data-dir="+self.dir)
+		self.driver = webdriver.Chrome(chrome_options=chrome_options)
 
-# The place we will direct our WebDriver to
-url = 'http://facebook.com/'
-options = chrome_opt()
-driver = webdriver.Chrome(chrome_options=options)
+	def login(self):
+		driver = self.driver
+		driver.get('http://facebook.com')
+		driver.find_elements_by_xpath("//input[@name='email']")[0].send_keys(self.email)
+		driver.find_elements_by_xpath("//input[@name='pass']")[0].send_keys(self.password)
+		driver.find_elements_by_xpath("//button[@name='login']")[0].click()
+		
 
-# Directing the driver to the defined url
-driver.get(url)
+fb = facebook('ecosy.corp@gmail.com', 'EcosyCorp001', 'ecosy')
+fb.login()
 
 time.sleep(10)
 
-driver.quit()
+# driver.quit()

@@ -1,13 +1,25 @@
-[24230:24230:1010/053720.820703:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
-[24230:24230:1010/053721.019482:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[24196:24196:1010/053725.273923:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #locale: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/ (0)
-[24196:24196:1010/053725.274217:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/ (0)
-[24196:24196:1010/053725.274330:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "username"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/ (0)
-[24196:24196:1010/053727.670022:INFO:CONSOLE(0)] "
+[12602:12602:1013/153924.712951:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+[12602:12602:1013/153924.926185:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[12605:12656:1013/153926.048416:WARNING:spdy_session.cc(3304)] Received HEADERS for invalid stream 3
+[12565:12565:1013/153929.701457:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/ (0)
+[12565:12565:1013/153935.056534:INFO:CONSOLE(0)] "
 %cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source:  (0)
-[24196:24196:1010/053727.670289:INFO:CONSOLE(0)] "
+[12565:12565:1013/153935.056755:INFO:CONSOLE(0)] "
 %cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source:  (0)
-[24196:24196:1010/053727.670472:INFO:CONSOLE(0)] "
+[12565:12565:1013/153935.056949:INFO:CONSOLE(0)] "
 %cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source:  (0)
-[24196:24196:1010/053727.670856:INFO:CONSOLE(0)] "
+[12565:12565:1013/153935.057538:INFO:CONSOLE(0)] "
 %c ", source:  (0)
+[12565:12565:1013/153946.120394:INFO:CONSOLE(318)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/sPuijSQIjpP.js?_nc_x=cNnAG1kRMYA (318)
+[12565:12565:1013/153946.120666:INFO:CONSOLE(318)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/sPuijSQIjpP.js?_nc_x=cNnAG1kRMYA (318)
+[12565:12565:1013/153946.120862:INFO:CONSOLE(318)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/sPuijSQIjpP.js?_nc_x=cNnAG1kRMYA (318)
+[12565:12565:1013/153946.121024:INFO:CONSOLE(318)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/sPuijSQIjpP.js?_nc_x=cNnAG1kRMYA (318)
+[12605:12656:1013/153956.144786:WARNING:spdy_session.cc(3247)] Received WINDOW_UPDATE for invalid stream 85
+[12605:12656:1013/153956.149795:WARNING:spdy_session.cc(3247)] Received WINDOW_UPDATE for invalid stream 87
+[12605:12656:1013/153956.149911:WARNING:spdy_session.cc(3247)] Received WINDOW_UPDATE for invalid stream 89
+[12565:12565:1013/153956.635342:WARNING:pref_notifier_impl.cc(36)] Pref observer for browser.relaunch_notification_period found at shutdown.
+[12565:12565:1013/153956.635490:WARNING:pref_notifier_impl.cc(36)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
