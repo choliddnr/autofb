@@ -1,0 +1,13 @@
+[24230:24230:1010/053720.820703:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+[24230:24230:1010/053721.019482:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[24196:24196:1010/053725.273923:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #locale: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/ (0)
+[24196:24196:1010/053725.274217:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/ (0)
+[24196:24196:1010/053725.274330:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "username"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/ (0)
+[24196:24196:1010/053727.670022:INFO:CONSOLE(0)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source:  (0)
+[24196:24196:1010/053727.670289:INFO:CONSOLE(0)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source:  (0)
+[24196:24196:1010/053727.670472:INFO:CONSOLE(0)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source:  (0)
+[24196:24196:1010/053727.670856:INFO:CONSOLE(0)] "
+%c ", source:  (0)
