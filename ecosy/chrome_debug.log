@@ -1,25 +1,230 @@
-[12602:12602:1013/153924.712951:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
-[12602:12602:1013/153924.926185:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-[12605:12656:1013/153926.048416:WARNING:spdy_session.cc(3304)] Received HEADERS for invalid stream 3
-[12565:12565:1013/153929.701457:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/ (0)
-[12565:12565:1013/153935.056534:INFO:CONSOLE(0)] "
-%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source:  (0)
-[12565:12565:1013/153935.056755:INFO:CONSOLE(0)] "
-%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source:  (0)
-[12565:12565:1013/153935.056949:INFO:CONSOLE(0)] "
-%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source:  (0)
-[12565:12565:1013/153935.057538:INFO:CONSOLE(0)] "
-%c ", source:  (0)
-[12565:12565:1013/153946.120394:INFO:CONSOLE(318)] "
-%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/sPuijSQIjpP.js?_nc_x=cNnAG1kRMYA (318)
-[12565:12565:1013/153946.120666:INFO:CONSOLE(318)] "
-%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/sPuijSQIjpP.js?_nc_x=cNnAG1kRMYA (318)
-[12565:12565:1013/153946.120862:INFO:CONSOLE(318)] "
-%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/sPuijSQIjpP.js?_nc_x=cNnAG1kRMYA (318)
-[12565:12565:1013/153946.121024:INFO:CONSOLE(318)] "
-%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yZ/r/sPuijSQIjpP.js?_nc_x=cNnAG1kRMYA (318)
-[12605:12656:1013/153956.144786:WARNING:spdy_session.cc(3247)] Received WINDOW_UPDATE for invalid stream 85
-[12605:12656:1013/153956.149795:WARNING:spdy_session.cc(3247)] Received WINDOW_UPDATE for invalid stream 87
-[12605:12656:1013/153956.149911:WARNING:spdy_session.cc(3247)] Received WINDOW_UPDATE for invalid stream 89
-[12565:12565:1013/153956.635342:WARNING:pref_notifier_impl.cc(36)] Pref observer for browser.relaunch_notification_period found at shutdown.
-[12565:12565:1013/153956.635490:WARNING:pref_notifier_impl.cc(36)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[10068:10068:1105/085236.660209:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+[10068:10068:1105/085236.845588:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[10072:10103:1105/085237.200314:WARNING:spdy_session.cc(3324)] Received HEADERS for invalid stream 3
+[10143:1:1105/085237.456553:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+[10143:1:1105/085237.458857:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+[10072:10103:1105/085239.695095:ERROR:ssl_client_socket_impl.cc(969)] handshake failed; returned -1, SSL error code 1, net_error -101
+[10072:10103:1105/085239.739011:ERROR:ssl_client_socket_impl.cc(969)] handshake failed; returned -1, SSL error code 1, net_error -101
+[10035:10035:1105/085240.614339:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085240.615605:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085240.615768:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085240.615861:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10072:10103:1105/085240.737653:ERROR:ssl_client_socket_impl.cc(969)] handshake failed; returned -1, SSL error code 1, net_error -101
+[10072:10103:1105/085240.790648:ERROR:ssl_client_socket_impl.cc(969)] handshake failed; returned -1, SSL error code 1, net_error -101
+[10072:10103:1105/085250.910881:ERROR:ssl_client_socket_impl.cc(969)] handshake failed; returned -1, SSL error code 1, net_error -101
+[10072:10103:1105/085251.834009:ERROR:ssl_client_socket_impl.cc(969)] handshake failed; returned -1, SSL error code 1, net_error -101
+[10072:10103:1105/085304.485733:ERROR:ssl_client_socket_impl.cc(969)] handshake failed; returned -1, SSL error code 1, net_error -101
+[10072:10103:1105/085305.247983:ERROR:ssl_client_socket_impl.cc(969)] handshake failed; returned -1, SSL error code 1, net_error -101
+[10035:10035:1105/085306.223002:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085306.224853:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085306.225208:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085306.225987:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085307.648908:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.50.0/main.js (1)
+[10035:10035:1105/085307.649298:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.50.0/main.js (1)
+[10035:10035:1105/085307.650437:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.50.0/main.js (1)
+[10035:10035:1105/085307.651066:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.50.0/main.js (1)
+[10035:10035:1105/085307.651396:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.50.0/main.js (1)
+[10035:10035:1105/085307.651626:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.50.0/main.js (1)
+[10035:10035:1105/085307.651801:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.50.0/main.js (1)
+[10035:10035:1105/085307.652273:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.50.0/main.js (1)
+[10035:10035:1105/085307.652844:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.50.0/main.js (1)
+[10035:10035:1105/085307.653297:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.50.0/main.js (1)
+[10035:10035:1105/085307.653574:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.50.0/main.js (1)
+[10035:10035:1105/085307.653745:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.50.0/main.js (1)
+[10035:10035:1105/085307.653914:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.50.0/main.js (1)
+[10035:10035:1105/085307.654283:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.50.0/main.js (1)
+[10035:10035:1105/085307.654613:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.50.0/main.js (1)
+[10035:10035:1105/085307.654919:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.50.0/main.js (1)
+[10072:10103:1105/085307.882395:WARNING:spdy_session.cc(3267)] Received WINDOW_UPDATE for invalid stream 111
+[10035:10035:1105/085326.987490:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085326.987947:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085326.988627:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085326.989019:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085346.474814:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085346.475300:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085346.475645:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085346.476124:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10072:10103:1105/085347.151565:WARNING:spdy_session.cc(3324)] Received HEADERS for invalid stream 201
+[10072:10103:1105/085347.151815:WARNING:spdy_session.cc(3324)] Received HEADERS for invalid stream 205
+[10072:10103:1105/085347.155515:WARNING:spdy_session.cc(3324)] Received HEADERS for invalid stream 203
+[10035:10035:1105/085405.771804:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085405.772978:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085405.773525:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085405.782068:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10072:10103:1105/085406.297405:WARNING:spdy_session.cc(3324)] Received HEADERS for invalid stream 251
+[10035:10035:1105/085425.527819:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085425.528597:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085425.529889:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085425.530383:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085444.967328:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085444.969694:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085444.970237:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085444.970778:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085504.818074:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085504.819233:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085504.819888:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085504.820763:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085525.629030:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085525.629625:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085525.629836:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085525.630197:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085544.795107:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085544.795669:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085544.796069:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085544.797027:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10072:10103:1105/085545.484328:WARNING:spdy_session.cc(3324)] Received HEADERS for invalid stream 499
+[10072:10103:1105/085545.489919:WARNING:spdy_session.cc(3324)] Received HEADERS for invalid stream 497
+[10035:10035:1105/085604.444375:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085604.444750:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085604.444930:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085604.445027:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10072:10103:1105/085605.550632:WARNING:spdy_session.cc(3324)] Received HEADERS for invalid stream 549
+[10035:10035:1105/085625.434627:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085625.435398:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085625.436262:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085625.436417:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085644.912907:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085644.913406:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085644.913790:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085644.914154:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085705.746553:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085705.747160:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085705.747550:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085705.747859:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10072:10103:1105/085723.158060:WARNING:spdy_session.cc(3267)] Received WINDOW_UPDATE for invalid stream 723
+[10035:10035:1105/085725.376559:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085725.377158:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085725.377613:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085725.378184:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10072:10103:1105/085726.182858:WARNING:spdy_session.cc(3324)] Received HEADERS for invalid stream 749
+[10035:10035:1105/085744.820240:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085744.820718:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085744.821304:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085744.821891:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10072:10103:1105/085745.622403:WARNING:spdy_session.cc(3324)] Received HEADERS for invalid stream 801
+[10072:10103:1105/085745.628744:WARNING:spdy_session.cc(3324)] Received HEADERS for invalid stream 803
+[10072:10103:1105/085745.629026:WARNING:spdy_session.cc(3324)] Received HEADERS for invalid stream 791
+[10035:10035:1105/085805.231668:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085805.232130:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085805.232639:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085805.232985:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085825.131585:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085825.132166:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085825.132381:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085825.132658:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10072:10103:1105/085825.857761:WARNING:spdy_session.cc(3324)] Received HEADERS for invalid stream 911
+[10072:10103:1105/085825.857870:WARNING:spdy_session.cc(3324)] Received HEADERS for invalid stream 909
+[10072:10103:1105/085825.857972:WARNING:spdy_session.cc(3324)] Received HEADERS for invalid stream 907
+[10072:10103:1105/085825.858185:WARNING:spdy_session.cc(3267)] Received WINDOW_UPDATE for invalid stream 913
+[10035:10035:1105/085844.627959:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085844.628379:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085844.628802:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085844.629098:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085904.246474:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085904.246850:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085904.247416:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085904.247878:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085924.836475:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085924.837373:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085924.839521:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/085924.842381:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/090028.310900:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/090028.311338:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/090028.312193:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/090028.312591:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/090049.086965:INFO:CONSOLE(321)] "
+%cBerhenti! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/090049.087288:INFO:CONSOLE(321)] "
+%cIni adalah fitur browser yang ditujukan untuk pengembang. Jika seseorang meminta Anda untuk menyalin-menempel sesuatu di sini untuk mengaktifkan fitur Facebook atau "meretas" akun seseorang, ini adalah penipuan dan akan memberikannya akses ke akun Facebook Anda. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/090049.087580:INFO:CONSOLE(321)] "
+%cLihat https://www.facebook.com/selfxss untuk informasi selengkapnya. font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
+[10035:10035:1105/090049.087836:INFO:CONSOLE(321)] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v3/yE/r/8Sh_eUu2-JP.js?_nc_x=cNnAG1kRMYA (321)
