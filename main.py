@@ -55,10 +55,31 @@ class facebook:
 			time.sleep(3)
 			e += 1
 
-		
+	def like_beranda_posts(self):
+		driver = self.driver
+		driver.get('https://facebook.com')
+		# driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+		# time.sleep(3)
+		# driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+		print('get like')
+		likes = driver.find_elements_by_xpath("//a[contains(@data-testid, 'UFI2ReactionLink')]")
+		print(len(likes))
+
+		for like in likes:
+			print(like)
+			ActionChains(driver).move_to_element(like).perform()
+			like.click()
+			print('klikked')
+			time.sleep(10)
+
+# <a aria-pressed="false" class=" _6a-y _3l2t  _18vj" data-testid="UFI2ReactionLink" href="#" role="button" tabindex="-1"><i alt="" class="_6rk2 img sp_ddXiTdIB8vm sx_44a25c"></i>Suka</a>
+
+
 
 fb = facebook('ecosy.corp@gmail.com', 'EcosyCorp001', 'ecosy')
-fb.add_group_member('1878596892377482')
+# fb.login()
+# fb.add_group_member('1878596892377482')
 # fb.add_group_member('1643677825657529')
+fb.like_beranda_posts()
 time.sleep(5)
 
